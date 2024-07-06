@@ -2,6 +2,6 @@ function greet() {
   console.log("Hello Everyone!");
 }
 
-function welcome() {
-  console.log("Welcome sir!");
+function message() {
+  console.log("YO");
 }
