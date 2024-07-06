@@ -6,3 +6,8 @@ function demoFunctionInAzimi(){
 function change(){
     console.log("Changed");
 }
+
+
+function demoFunctionInAzimi(){
+    console.log("method description removed!")
+}
