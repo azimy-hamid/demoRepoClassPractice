@@ -5,3 +5,7 @@ function greet() {
 function welcome() {
   console.log("Welcome!");
 }
+
+function greetings(){
+  console.log("greetings");
+}
